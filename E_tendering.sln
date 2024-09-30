@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "E_tendering", ".", "{77340946-470E-48FC-8327-26202BA26F80}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53657"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\PROJECT_code\NEW\E_tendering\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53657\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53657"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\PROJECT_code\NEW\E_tendering\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53657\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53657"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77340946-470E-48FC-8327-26202BA26F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77340946-470E-48FC-8327-26202BA26F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F11246C5-8F9D-45C7-AEDE-DDC7A67C8051}
+	EndGlobalSection
+EndGlobal
